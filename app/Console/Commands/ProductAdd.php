@@ -95,6 +95,6 @@ class ProductAdd extends Command
 
         $noOfProductsAdded = count($products);
 
-        $this->info( $noOfProductsAdded . ' products(s) have been added to the basket.');
+        $this->info( $noOfProductsAdded . ' product(s) have been added to the basket.');
     }
 }
