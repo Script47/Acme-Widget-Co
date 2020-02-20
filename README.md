@@ -41,12 +41,12 @@ php artisan basket:delete --basket=1
 > php artisan basket:create
 > Basket 1 has been created.
 > php artisan product:add --products=G01,B01 --basket=1
-> 2 products(s) have been added to the basket.
+> 2 product(s) have been added to the basket.
 > php artisan basket:list --basket=1
 > -------------------------
 > Basket #1
 > -------------------------
-> Products: B01, G01
+> Products: G01, B01
 > Subtotal: 32.90
 > Delivery: 4.95
 > Discount: 0.00
@@ -60,7 +60,7 @@ php artisan basket:delete --basket=1
 
 ```
 > php artisan product:add --products=B01,B01,R01,R01,R01 --basket=1
-> 5 products(s) have been added to the basket.
+> 5 product(s) have been added to the basket.
 > php artisan basket:list --basket=1
 > -------------------------
 > Basket #1
