@@ -88,7 +88,7 @@ class ProductAdd extends Command
         }
 
         if ($error) {
-            $this->error('One or more of the products your specified doesn\'t exist.');
+            $this->error('One or more of the products specified doesn\'t exist.');
 
             return;
         }
