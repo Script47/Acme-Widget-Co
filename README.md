@@ -77,3 +77,4 @@ php artisan basket:delete --basket=1
 # Assumptions
 
 - The offer/discount system isn't supposed to be future proofed.
+- We'll only ever have a single "active" rule being checked against proucts
