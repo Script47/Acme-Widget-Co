@@ -1,6 +1,6 @@
 # Summary
 
-Opting to use the repository pattern alongside dependency injection this solution outlines how a simple product/basket system would work. The idea was to make it in such a way that it would be flexible. This is exemplified through the approach taken with a rudimentary rules system which is baked into the basket for offers/discounts.
+This solution outlines how a simple product/basket system would work. The idea was to make it in such a way that it would be flexible. This is exemplified through the approach taken with a rudimentary rules system which is baked into the basket for offers/discounts.
 
 # Setup
 
